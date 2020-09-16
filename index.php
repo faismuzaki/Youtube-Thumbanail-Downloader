@@ -18,3 +18,5 @@ echo "HD 1920x1080 : https://i.ytimg.com/vi/".$id."/maxresdefault.jpg\n";
 }else{
 	echo "Please Input true url";
 }
+
+?>
