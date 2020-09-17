@@ -16,7 +16,7 @@ echo "HQ 480x360 : https://i.ytimg.com/vi/".$id."/hqdefault.jpg\n";
 echo "SD 640x480 : https://i.ytimg.com/vi/".$id."/sddefault.jpg\n";
 echo "HD 1920x1080 : https://i.ytimg.com/vi/".$id."/maxresdefault.jpg\n";
 }else{
-	echo "Please Input true urll";
+	echo "Please Input true url";
 }
 
 ?>
